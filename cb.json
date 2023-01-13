@@ -1,0 +1,66 @@
+{
+    "Cortes": [
+      {
+        "id": 1,
+        "nome": "Corte do Jaca",
+        "Corte do Jaca": "Alta marcação, Média marcação e Baixa marcação",
+        "preco": 20.00
+      },
+      {
+        "id": 2,
+        "nome": "Corte Americano",
+        "Corte Americano": "Alta marcação, Média marcação e Baixa marcação",
+        "preco": 20.00
+      },
+      {
+        "id": 3,
+        "nome": "Corte Manguinho",
+        "Corte Manguinho": "Alta marcação, Média marcação e Baixa marcação",
+        "preco": 20.00
+      },
+      {
+        "id": 4,
+        "nome": "Corte Militar",
+        "Corte Militar": "Alta marcação, Média marcação e Baixa marcação",
+        "preco": 20.00
+      }
+    ],
+  
+    "Acabamentos": [
+      {
+        "id": 1,
+        "nome": "Barba modelada",
+        "preco": 15.00
+      },
+      {
+        "id": 2,
+        "nome": "Pézinho",
+        "preco": 5.00
+      },
+      {
+        "id": 3,
+        "nome": "Sobrancelha",
+        "preco": 5.00
+      }
+    ],
+  
+    "Colorimetria": [
+      {
+        "id": 1,
+        "sabor": "Pigmentação",
+        "preco": 10.00
+      },
+      {
+        "id": 2,
+        "sabor": "Nevou",
+        "preco": 45.00
+        
+      },
+      {
+        "id": 3,
+        "sabor": "Reflexo",
+        "preco": 35.00
+      }
+    ]
+  }
+  
